@@ -1,4 +1,3 @@
-# parking-space-detection
 # Parking Space Detection and Counter using Open-CV and Python
 ### ParkingSpacePicker.py - used for adding all the parking spaces 
 ### main.py - used for the detection of parking space and count the number of available parking spaces
@@ -15,4 +14,5 @@ This project shows how to create a parking space finder with OpenCV Python. It t
 - 🔍 **Cropping and Counting Pixels:** Steps to crop images to the regions of interest (parking spaces) and counting the number of non-zero pixels to determine if a space is occupied.
 - ✅ **Final Implementation:** Combining all steps to create a robust parking space counter, handling camera movement, and refining the detection parameters for accuracy.
 
-### **Conclusion :** This project shows the strength of simple image processing methods for tackling real-world issues. Using OpenCV and Python, we built a reliable parking space counter that spots open parking spots as they happen.
+### **Conclusion :**
+This project shows the strength of simple image processing methods for tackling real-world issues. Using OpenCV and Python, we built a reliable parking space counter that spots open parking spots as they happen.
