@@ -16,3 +16,11 @@ This project shows how to create a parking space finder with OpenCV Python. It t
 
 ### **Conclusion :**
 This project shows the strength of simple image processing methods for tackling real-world issues. Using OpenCV and Python, we built a reliable parking space counter that spots open parking spots as they happen.
+
+
+
+![parking project cover](https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302)
+![psc_proj1](https://github.com/user-attachments/assets/d68a7b66-b855-40d0-ab88-91f2dadcd30e)
+![Vid2_proj1](https://github.com/user-attachments/assets/8fb6616a-e945-4437-b03d-efdcfa64edb7)
+
+
