@@ -1,4 +1,5 @@
 # Parking Space Detection and Counter using Open-CV and Python
+![parking project cover](https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302)
 ### ParkingSpacePicker.py - used for adding all the parking spaces 
 ### main.py - used for the detection of parking space and count the number of available parking spaces
 # ***sPark*** : Automated Parking Space detection using open-cv & python :
@@ -19,7 +20,6 @@ This project shows the strength of simple image processing methods for tackling 
 
 
 
-![parking project cover](https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302)
 ![psc_proj1](https://github.com/user-attachments/assets/d68a7b66-b855-40d0-ab88-91f2dadcd30e)
 ![Vid2_proj1](https://github.com/user-attachments/assets/8fb6616a-e945-4437-b03d-efdcfa64edb7)
 
