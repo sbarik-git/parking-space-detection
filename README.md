@@ -1,9 +1,5 @@
-# Parking Space Detection and Counter using Open-CV and Python
-![parking project cover](https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302)
-<img src="https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302" width="200" />
-### ParkingSpacePicker.py - used for adding all the parking spaces 
-### main.py - used for the detection of parking space and count the number of available parking spaces
 # ***sPark*** : Automated Parking Space detection using open-cv & python :
+<img src="https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302" width="500" />
 
 ## Overview
 
@@ -55,10 +51,7 @@ The main goal of this project is to detect and monitor car parking spaces. It co
 
 ### **Conclusion & Output :**
 This project shows the strength of simple image processing methods for tackling real-world issues. Using OpenCV and Python, we built a reliable parking space counter that spots open parking spots as they happen.
-
-
-
-![psc_proj1](https://github.com/user-attachments/assets/d68a7b66-b855-40d0-ab88-91f2dadcd30e)
-![Vid2_proj1](https://github.com/user-attachments/assets/8fb6616a-e945-4437-b03d-efdcfa64edb7)
+<img src="https://github.com/user-attachments/assets/d68a7b66-b855-40d0-ab88-91f2dadcd30e" width="500"  height ="400"/>
+<img src="https://github.com/user-attachments/assets/8fb6616a-e945-4437-b03d-efdcfa64edb7" width="500"  height = "400"/>
 
 
