@@ -1,7 +1,7 @@
 # ***sPark*** : Automated Parking Space detection using open-cv & python :
 <img src="https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302" width="500" />
 
-## Overview
+# Overview
 
 The main goal of this project is to detect and monitor car parking spaces. It consists of two main parts:
 
@@ -40,7 +40,7 @@ The main goal of this project is to detect and monitor car parking spaces. It co
 - `main.py`: Script for processing the video and detecting parking space occupancy.
 - `CarParkPos`: Binary file containing saved parking space coordinates (created by `parkingspacepicker.py`).
 
-### **Project Overview :** 
+## **Project Overview :** 
 
 - 🚗 **Introduction and Project Overview:** The video introduces a project to create a parking space finder and counter using image processing techniques, without deep learning or machine learning. The system indicates the number of free and occupied parking spaces.
 - **🔧 Setting Up the Environment:** Detailed instructions on setting up the project in PyCharm, installing necessary packages like OpenCV, NumPy, and  CVZone, and configuring the project interpreter.
@@ -49,7 +49,7 @@ The main goal of this project is to detect and monitor car parking spaces. It co
 - 🔍 **Cropping and Counting Pixels:** Steps to crop images to the regions of interest (parking spaces) and counting the number of non-zero pixels to determine if a space is occupied.
 - ✅ **Final Implementation:** Combining all steps to create a robust parking space counter, handling camera movement, and refining the detection parameters for accuracy.
 
-### **Conclusion & Output :**
+# **Conclusion & Output :**
 This project shows the strength of simple image processing methods for tackling real-world issues. Using OpenCV and Python, we built a reliable parking space counter that spots open parking spots as they happen.
 <img src="https://github.com/user-attachments/assets/d68a7b66-b855-40d0-ab88-91f2dadcd30e" width="500"  height ="400"/>
 <img src="https://github.com/user-attachments/assets/8fb6616a-e945-4437-b03d-efdcfa64edb7" width="500"  height = "400"/>
