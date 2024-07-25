@@ -6,7 +6,7 @@ import numpy as np
 width,height = 115 , 50 #width and height of a single parking space
 
 #Video feed
-cap = cv2.VideoCapture('parkingmp4.mp4')
+cap = cv2.VideoCapture('carPark.mp4')
 with open('CarParkPos', 'rb') as f:
     posList = pickle.load(f)
 
