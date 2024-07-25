@@ -3,7 +3,11 @@
 ### ParkingSpacePicker.py - used for adding all the parking spaces 
 ### main.py - used for the detection of parking space and count the number of available parking spaces
 # ***sPark*** : Automated Parking Space detection using open-cv & python :
-
+ur project folder:
+carPark.mp4 (video file)
+carParkImg.png (static image of the parking lot)
+parkingspacepicker.py
+main.py
 This project shows how to create a parking space finder with OpenCV Python. It tells apart empty and full spaces by looking at car size. It doesn't use deep learning or machine learning. The project talks about the hard parts of picking out areas to watch and dealing with odd shapes. It stresses that you need to mark areas by hand to get it right. The project goes over making files to pick parking spaces, keeping rectangles with pickle, and running video feeds over and over to test the code. It also shows how to crop and check each parking space for cars. It figures out if cars are there by using thresholding and adaptive thresholding. It shows the number of non-zero pixels in each space and lets you change the text size. The project also tweaks threshold values to tell parking spaces apart better. It shows open and taken spaces in different colors.
 
 ### **Project Overview :** 
