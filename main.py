@@ -16,8 +16,6 @@ def checkParkingSpace(imgPro):
         x,y = pos
 
         imgCrop = imgPro[y:y+height,x:x+width]
-        #cv2.imshow(str(x*y),imgCrop)
-
 
         #counting the number of pixels in the rectangle (if more car is present)
         count = cv2.countNonZero(imgCrop)
@@ -45,7 +43,7 @@ while True:
 
     #converting image to grayscale
     imgGray =cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
-    imgBlur =cv2.GaussianBlur(imgGray,(3,3),1)#addign blur to the image
+    imgBlur =cv2.GaussianBlur(imgGray,(3,3),1)#adding blur to the image
 
     #converting to binary image using adaptive thresholding
     imgThreshold =cv2.adaptiveThreshold(imgBlur,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY_INV,25,16)
@@ -64,7 +62,5 @@ while True:
     checkParkingSpace(imgDilate)
 
     cv2.imshow("Image",img)
-    # cv2.imshow("ImageBlur", imgBlur)
-    # cv2.imshow("imgThreshold", imgDilate)
 
     cv2.waitKey(15)
