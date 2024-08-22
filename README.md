@@ -1,5 +1,4 @@
 # ***sPark*** : Automated Parking Space detection using open-cv & python :
-<img src="https://github.com/user-attachments/assets/5e893129-feb6-4764-a4f4-763c399e9302" width="500" />
 
 # Overview
 
